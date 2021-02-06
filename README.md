@@ -25,7 +25,7 @@
  * ### Learn from other people's success
  * ### Accept constructive criticism 
  * ### Make more, more and more effort 
- * ### Always be positive,absolutly you can handle the work 
+ * ### Always be positive, absolutely you can handle the work 
  * ### No matter how old are you, still you have to learn from other (even they are younger than you) 
  * ## NEVER GIVE UP
 
