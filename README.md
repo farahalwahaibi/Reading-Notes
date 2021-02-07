@@ -5,11 +5,7 @@
 ## **Table Of Content :**
 **Topic** | **Link**
 ----- | -----
-<<<<<<< HEAD
 **Main Page** | [Main Page](https://github.com/farahalwahaibi/Reading-Notes/blob/main/README.md) | 
-=======
-**Main Page** | **Main** | 
->>>>>>> 271eb939bc3b7b811e7b6f6e20859de8f6352311
 **Growth Mindset Page** | [Growth Mindset](https://github.com/farahalwahaibi/Reading-Notes/blob/main/GrowthMindset.md) 
 **MarkDown Page** | [MarkDown](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Markdown.md)
 
