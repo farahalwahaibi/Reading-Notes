@@ -1,9 +1,3 @@
-# Reading-Notes
-# **Welcome to my website**
-***
-*My name is __*Farah Alwahaibi*__ , I'm an architect, I worked for 2 years as an architectural estimator and now I am starting a new experiment to learn programming to allow me to have a new path in architecture .*
-***
-
 ## **GROWTH MINDSET**
 ***
 
