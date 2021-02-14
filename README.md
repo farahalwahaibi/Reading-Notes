@@ -4,7 +4,7 @@
 ## **HOPE YOU ENJOY IT**
 ## **Table Of Content :**
 ***
-# **CLASS 102**
+# **Code 102 Reading Notes**
 **Topic** | **Link**
 ----- | -----
 **Main Page** | [Main Page](https://github.com/farahalwahaibi/Reading-Notes/blob/main/README.md) | 
@@ -18,7 +18,7 @@
 **Read 8** | [Design Web Pages With CSS](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Design-web-pages-with-CSS.md) 
 ***
 
-# **CLASS 201**
+# **Code 201 Reading Notes**
 **Topic** | **Link**
 ----- | ----- 
 **Read 1** | [Introductory HTML & JavaScript](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Introductory-HTML-and-JavaScript.md)
