@@ -7,15 +7,15 @@
 # **CLASS 102**
 **Topic** | **Link**
 ----- | -----
-**Main Page** | [Main Page](https://github.com/farahalwahaibi/Reading-Notes/blob/main/README.md) | 
-**Read 1** | [Growth Mindset](https://github.com/farahalwahaibi/Reading-Notes/blob/main/GrowthMindset.md) 
-**Read 2** | [Mark Down](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Markdown.md) 
-**Read 3** | [Remote Repositories](https://github.com/farahalwahaibi/Reading-Notes/blob/main/remote-repositories.md)
-**Read 4** | [Structure Web Page With HTML](https://github.com/farahalwahaibi/Reading-Notes/blob/main/structure-web-page-with-html.md)
-**Read 5** | [Programming With JavaScript](https://github.com/farahalwahaibi/Reading-Notes/blob/main/programming-with-JavaScript.md)
-**Read 6** | [Operators & Loops](https://github.com/farahalwahaibi/Reading-Notes/blob/main/operators&loops.md)
-**Read 7** | [Functions](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Functions.md)
-**Read 8** | [Design Web Pages With CSS](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Design-web-pages-with-CSS.md) 
+**Main Page** | [Main Page](https://github.com/farahalwahaibi/Reading-Notes/blob/main/README) | 
+**Read 1** | [Growth Mindset](https://github.com/farahalwahaibi/Reading-Notes/blob/main/GrowthMindset) 
+**Read 2** | [Mark Down](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Markdown) 
+**Read 3** | [Remote Repositories](https://github.com/farahalwahaibi/Reading-Notes/blob/main/remote-repositories)
+**Read 4** | [Structure Web Page With HTML](https://github.com/farahalwahaibi/Reading-Notes/blob/main/structure-web-page-with-html)
+**Read 5** | [Programming With JavaScript](https://github.com/farahalwahaibi/Reading-Notes/blob/main/programming-with-JavaScript)
+**Read 6** | [Operators & Loops](https://github.com/farahalwahaibi/Reading-Notes/blob/main/operators&loops)
+**Read 7** | [Functions](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Functions)
+**Read 8** | [Design Web Pages With CSS](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Design-web-pages-with-CSS) 
 ***
 
 # **CLASS 201**
