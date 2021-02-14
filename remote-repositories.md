@@ -13,3 +13,8 @@
 ### 6. **git push [remote-name][branch-name]** : (This command pushes committed changes from your local “master” branch upstream to the “origin” server).
 ### 7. **git remote rename** : (To rename a remote’s short name).
 ### 8. **git remote rm** : (To remove a remote for whatever reason).
+
+***
+***
+***
+[BACK TO MAIN PAGE](https://github.com/farahalwahaibi/Reading-Notes/blob/main/README.md)

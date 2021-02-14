@@ -32,6 +32,11 @@ Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com 
 ## 7. ## Inline code
 ![Inline code](Capture.JPG) 
 
+***
+***
+***
+[BACK TO MAIN PAGE](https://github.com/farahalwahaibi/Reading-Notes/blob/main/README.md)
+
 
 
  
