@@ -106,9 +106,9 @@ hCard | for physical address
 ## **WHAT IS A VARIABLE?** 
 **A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.**
 ### **How to declare variabls ?**
-![dec-var](dec-var.jpg)
+![dec-var](decvar.jpg)
 ### **How to assign them a value ?**
-![assign-var](asi-var.jpg)
+![assign-var](asivar.jpg)
 ***
 ***
 ## The data types for variabls :**
@@ -132,7 +132,7 @@ hCard | for physical address
 **Expressions rely on things called operators; they allow programmers to create a single value from one or more values.**
 ***
 ### **ARITHMETIC OPERATORS** 
-![ARITHMETIC-OPERATORS](ar.opr.jpg)
+![ARITHMETIC-OPERATORS](aropr.jpg)
 ***
 ## **FINALY :**
 * A script is made up of a series of statements. Each statement is like a step in a recipe.
