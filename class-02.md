@@ -106,8 +106,11 @@ hCard | for physical address
 ## **WHAT IS A VARIABLE?** 
 **A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.**
 ### **How to declare variabls ?**
+
 ![dec-var](IMG/decvar.jpg)
+
 ### **How to assign them a value ?**
+
 ![assign-var](IMG/asivar.jpg)
 ***
 ***
