@@ -1,5 +1,5 @@
 # **WELCOME TO MY WEBSITE** 
-*My name is Farah AlWahaibi and I am an architect graduated from The University Of Jordan in 2017 , after that I worked for 2 years as an architectural estimator , now I am starting a new experience to learn programming to allow me to have a new path in architecture .*
+*THIS WEBSITE CONTAINS READING NOTES FOR CODE 102 AND CODE 201 , HOPEFULY TO HELP NON-TECHNICHAL FRIEND WHO WANT TO START LEARNING SOFTWARE DEVELOPMENT .*
 
 ## **HOPE YOU ENJOY IT**
 ## **Table Of Content :**
@@ -23,7 +23,7 @@
 ----- | ----- 
 **Read 1** | [Introductory HTML & JavaScript](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Introductory-HTML-and-JavaScript.md)
 **Read 2** | [HTML Text, CSS Introduction, Basic JavaScript Instructions](https://github.com/farahalwahaibi/Reading-Notes/blob/main/class-02.md)
-**Read 3** | [HTML Lists, CSS Boxes, JS Control Flow](https://github.com/farahalwahaibi/Reading-Notes/blob/main/HTML-Lists,CSS-Boxes,JS-Control-Flow.md)
+**Read 3** | [HTML Lists, CSS Boxes, JS Control Flow](https://github.com/farahalwahaibi/Reading-Notes/blob/main/class-03.md)
 **Read 4** |[HTML Links, CSS Layout, JS Functions](https://github.com/farahalwahaibi/Reading-Notes/blob/main/HTML-Links,CSS-Layout,JS-Functions.md)
 **Read 5** | [HTML Images; CSS Color & Text](https://github.com/farahalwahaibi/Reading-Notes/blob/main-HTML-Images-CSS-Color&Text.md)   
 **Read 6** | [JS Object Literals; The DOM](https://github.com/farahalwahaibi/Reading-Notes/blob/main/JS-Object-Literals;The-DOM.md)

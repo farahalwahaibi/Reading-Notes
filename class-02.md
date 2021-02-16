@@ -176,10 +176,11 @@ hCard | for physical address
 ### Loops check a condition, If it returns true, a code block will run.Then the condition will be checked again and If it still return true, the code block will run again. It repeats until the condition return ## **FALSE** .
 ***
 ## **IF STATEMENTS** 
-![IF-STATEMENTS](IF.JPG)
+![IF-STATEMENTS](IMG/IF.JPG)
 
 ## **IF ELSE STATEMENTS**
-![IF-ELSE-STATEMENTS](IF-ELSE.JPG)
+![IF-ELSE-STATEMENTS](IMG/IF-ELSE.JPG)
+
 
 ***
 ***
