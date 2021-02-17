@@ -2,9 +2,9 @@
 ## **Three types of link:**
 * Creating links between pages (see relative link below)
 
-* Linking to other sites <a href="site">text</a>
+* Linking to other sites `<a href="site">text</a>`
 
-* Email links <a href="main email@example.com">Email text</a>
+* Email links `<a href="main email@example.com">Email text</a>`
 
 ***
 ## **Relative link types :**
