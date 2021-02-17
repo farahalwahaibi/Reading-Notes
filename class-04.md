@@ -1,5 +1,5 @@
 # **CH.4 : LINK**
-## **Three tyres of link:**
+## **Three types of link:**
 * Creating links between pages (see relative link below)
 
 * Linking to other sites <a href="site">text</a>
