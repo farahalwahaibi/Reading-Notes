@@ -21,7 +21,7 @@
 # **Code 201 Reading Notes**
 **Topic** | **Link**
 ----- | ----- 
-**Read 1** | [Introductory HTML & JavaScript](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Introductory-HTML-and-JavaScript.md)
+**Read 1** | [Introductory HTML & JavaScript](https://github.com/farahalwahaibi/Reading-Notes/blob/main/class-01.md)
 **Read 2** | [HTML Text, CSS Introduction, Basic JavaScript Instructions](https://github.com/farahalwahaibi/Reading-Notes/blob/main/class-02.md)
 **Read 3** | [HTML Lists, CSS Boxes, JS Control Flow](https://github.com/farahalwahaibi/Reading-Notes/blob/main/class-03.md)
 **Read 4** |[HTML Links, CSS Layout, JS Functions](https://github.com/farahalwahaibi/Reading-Notes/blob/main/class-04.md)
