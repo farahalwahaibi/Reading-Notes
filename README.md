@@ -26,7 +26,7 @@
 **Read 3** | [HTML Lists, CSS Boxes, JS Control Flow](https://github.com/farahalwahaibi/Reading-Notes/blob/main/class-03.md)
 **Read 4** |[HTML Links, CSS Layout, JS Functions](https://github.com/farahalwahaibi/Reading-Notes/blob/main/class-04.md)
 **Read 5** | [HTML Images; CSS Color & Text](https://github.com/farahalwahaibi/Reading-Notes/blob/main-HTML-Images-CSS-Color&Text.md)   
-**Read 6** | [JS Object Literals; The DOM](https://github.com/farahalwahaibi/Reading-Notes/blob/main/JS-Object-Literals;The-DOM.md)
+**Read 6** | [JS Object Literals; The DOM](https://github.com/farahalwahaibi/Reading-Notes/blob/main/class-06.md)
 **Read 7** | [HTML Tables; JS Constructor Functions](https://github.com/farahalwahaibi/Reading-Notes/blob/main/HTML-Tables-JS-Constructor-Functions.md)
 **Read 8** | [More CSS Layout](https://github.com/farahalwahaibi/Reading-Notes/blob/main/More-CSS-Layout.md)
 **Read 9** | [Forms and Events](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Forms-and-Events.md)

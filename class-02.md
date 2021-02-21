@@ -1,6 +1,6 @@
 # **CH.2 TEXT** 
 ***
-## The HTML which is resposible about the content of the web pages , contains :
+## The HTML which is responsible about the content of the web pages , contains :
  * TEXT
  * IMAGES
  * LINKS 
@@ -12,7 +12,7 @@
    * **Engines**
 ***
 ## Structure Markup Tag or Elements :
- Tag |  Shourtcut
+ Tag |  Shortcut
 ----|----
 Headings | < h1 ></ h1 > or < h2 ></ h2 > until h6
 Paragraph | < p ></ p >
