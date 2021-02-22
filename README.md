@@ -28,7 +28,7 @@
 **Read 5** | [HTML Images; CSS Color & Text](https://github.com/farahalwahaibi/Reading-Notes/blob/main-HTML-Images-CSS-Color&Text.md)   
 **Read 6** | [JS Object Literals; The DOM](https://github.com/farahalwahaibi/Reading-Notes/blob/main/class-06.md)
 **Read 7** | [HTML Tables; JS Constructor Functions](https://github.com/farahalwahaibi/Reading-Notes/blob/main/HTML-Tables-JS-Constructor-Functions.md)
-**Read 8** | [More CSS Layout](https://github.com/farahalwahaibi/Reading-Notes/blob/main/More-CSS-Layout.md)
+**Read 8** | [More CSS Layout](https://github.com/farahalwahaibi/Reading-Notes/blob/main/class-08.md)
 **Read 9** | [Forms and Events](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Forms-and-Events.md)
 **Read 10** | [JS Debugging](https://github.com/farahalwahaibi/Reading-Notes/blob/main/JS-Debugging.md)
 **Read 11** | [Assorted Topics](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Assorted-Topics.md)
