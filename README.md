@@ -33,7 +33,7 @@
 **Read 10** | [JS Debugging](https://github.com/farahalwahaibi/Reading-Notes/blob/main/class-10.md)
 **Read 11** | [Assorted Topics](https://github.com/farahalwahaibi/Reading-Notes/blob/main/class-11.md)
 **Read 12** | [Docs for the HTML(canvas)Element & Chart](https://github.com/farahalwahaibi/Reading-Notes/blob/main/class-12.md)
-**Read 13** | [Local Storage](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Local-Storage.md)
+**Read 13** | [Local Storage](https://github.com/farahalwahaibi/Reading-Notes/blob/main/class-13.md)
 **Read 14-a** | [CSS Transforms, Transitions, and Animations](https://github.com/farahalwahaibi/Reading-Notes/blob/main/CSS-Transforms,Transitions,Animations.md)
 **Read 14-b** | [What Google Learned About Teams](https://github.com/farahalwahaibi/Reading-Notes/blob/main/What-Google-Learned-About-Teams.md)
 ***
