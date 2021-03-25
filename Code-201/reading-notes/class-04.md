@@ -63,26 +63,26 @@ position it would be in normal flow, shifting it to the top, right, bottom, or l
 
 -**Basic Example** :
 
-   ![basic-example](24.JPG)
+   ![basic-example](IMG\24.JPG)
 
 ***
  * **DECLARING A FUNCTION :**
 
-   ![declaring-function](25.JPG)
+   ![declaring-function](IMG\25.JPG)
 
  * **CALLING A FUNCTION :**
 
-   ![calling-function](26.JPG)
+   ![calling-function](IMG\26.JPG)
  
  * **DECLARING  FUNCTIONS THAT NEED INFORMATION:**
 
-    ![declaring-function](27.JPG)
+    ![declaring-function](IMG\27.JPG)
 
  * **CALLING FUNCTIONS THAT NEED INFORMATION**
 
  * **GETTING A SINGLE VALUE OUT OF A FUNCTION**
 
-    ![declaring-function](28.JPG)
+    ![declaring-function](IMG\28.JPG)
 
 *  **GETTING MULTIPLE VALUES OUT OF A FUNCTION**
 

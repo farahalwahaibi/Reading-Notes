@@ -28,15 +28,15 @@
 ## There are 3 types of loop :
 1. **FOR** 
 
-![FOR LOOP](KKK.JPG) 
+![FOR LOOP](IMG\KKK.JPG) 
 
 2. **WHILE**
 
-![WHILE LOOP](while.JPG)
+![WHILE LOOP](IMG\while.JPG)
 
 3. **DO WHILE**
 
-![DO WHILE](java-do-while-loop.png)
+![DO WHILE](IMG\java-do-while-loop.png)
 
 ***
 ***

@@ -30,7 +30,7 @@ Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com 
  ## 6. ## Blockquotes 
   *  > We're living the future so (by using > before text)
 ## 7. ## Inline code
-![Inline code](Capture.JPG) 
+![Inline code](IMG\Capture.JPG) 
 
 ***
 ***

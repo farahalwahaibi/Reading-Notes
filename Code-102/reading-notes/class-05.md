@@ -60,18 +60,18 @@
 ## **"ARITHMETIC OPERATORS"** 
 **JavaScript contains the following mathematical operators, which you can use with numbers.** 
 
-![ARITHMETIC-OPERATORS](21.JPG)
+![ARITHMETIC-OPERATORS](IMG\21.JPG)
 
 -**Example** :
 
-![using-arithmetic-operators](22.JPG)
+![using-arithmetic-operators](IMG\22.JPG)
 ***
 ## **"STRING OPERATOR"** :
 **There is just one string operator: the+ symbol. It is used to join the strings on either side of it.**
 
 -**Example** :
 
-![using-string-operators](23.JPG)
+![using-string-operators](IMG\23.JPG)
 ***
 ***
 ***
@@ -81,26 +81,26 @@
 
 -**Basic Example** :
 
-   ![basic-example](24.JPG)
+   ![basic-example](IMG\24.JPG)
 
 ***
  * **DECLARING A FUNCTION :**
 
-   ![declaring-function](25.JPG)
+   ![declaring-function](IMG\25.JPG)
 
  * **CALLING A FUNCTION :**
 
-   ![calling-function](26.JPG)
+   ![calling-function](IMG\26.JPG)
  
  * **DECLARING  FUNCTIONS THAT NEED INFORMATION:**
 
-    ![declaring-function](27.JPG)
+    ![declaring-function](IMG\27.JPG)
 
  * **CALLING FUNCTIONS THAT NEED INFORMATION**
 
  * **GETTING A SINGLE VALUE OUT OF A FUNCTION**
 
-    ![declaring-function](28.JPG)
+    ![declaring-function](IMG\28.JPG)
 
 
 ***

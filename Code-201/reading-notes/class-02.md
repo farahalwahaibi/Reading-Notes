@@ -81,7 +81,7 @@ hCard | for physical address
 
 ***
 ## **CSS Selectors types** : 
-![CSS selectors](selectors.JPG)
+![CSS selectors](IMG\selectors.JPG)
 
 
 ***

@@ -1,59 +1,3 @@
-
-# Chapter 1 - Structure
-
-## **HTML pages are text documents**
-
-## The structure of the HTML :
-HTML uses tags (characters that sit inside angled brackets) to give the information they surround special meaning, and it contains:
-
-* `<body>` : Everything inside this element is
-shown inside the main browser window.
-
-* `<head>` : This contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page). 
-
-* `<title>` : The contents of the title element are either shown in the top of the browse .
-
-### **Tag is often referred to as element and it come with :**
-
-* Opening tags :(denotes the start, can carry attributes, which tell us more about the content of that element.)
-    * (Attributes require a name and a value)
-* Closing tags :(denotes the end) 
-
-# Chapter 8 - Extra Markup
-
-1. Specifying different versions of HTML
-
-2. Identifying and grouping elements
-
-3. Comments, meta information and iframes
-***
-## THREE DIFFERENT VERSIONS OF HTML :
- 1. HTML 4
- 2. XHTML 1.0
- 3. HTML 5
-***
-## ELEMENTS IN HTML :
- * meta : for contains information about your page .
- * iframe :  is like a little window that has been cut into your page — and in that window you can see another page.
- * span : to  control the appearance of the content of these elements using CSS.
- * div : allows you to group a set of elements together in one block-level box.
- * <!-- --> : to add comment .
-***
-## **Escape Characters :**
-  ![escape-characters](31.JPG)
-***
-# SO IT SEEMS THAT :
- * DOCTYPES tell browsers which version of HTML you are using.
- * You can add comments to your code between the <!-- and --> markers.
- * The id and class attributes allow you to identify particular elements.
- * The div and span elements allow you to group block-level and inline elements together.
- * frames cut windows into your web pages through which other pages can be displayed.
- * The meta tag allows you to supply all kinds of information about your web page.
- * Escape characters are used to include special characters in your pages such as <, >, and ©.
- 
- ***
- ***
- ***
 # Chapter 17 - HTML5 Layout
 
 1. HTML5 layout elements
@@ -69,11 +13,11 @@ shown inside the main browser window.
 
  *  Traditional HTML Layouts 
 
- ![Traditional-HTML-Layouts](29.JPG)
+ ![Traditional-HTML-Layouts](IMG\29.JPG)
 
  * New Html5 Layout Elements
 
-  ![New-Html5-Layout-Elements](30.JPG)
+  ![New-Html5-Layout-Elements](IMG\30.JPG)
 
 ***
 ## - HTML5 LAYOUT ELEMENTS :
@@ -159,11 +103,57 @@ professional sites
 # SO IT SEEMS THAT :
  * It's important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return.
  * Site maps allow you to plan the structure of a site.
- * Wire frames allow you to organize the information that will need to go on each page.
+ * Wireframes allow you to organize the information that will need to go on each page.
  * Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
  * You can differentiate between pieces of information using size, color, and style. 
  * You can use grouping and similarity to help simplify the information you present.
 ***
 ***
 ***
-[BACK TO MAIN PAGE](https://github.com/farahalwahaibi/Reading-Notes/blob/main/README.md)
+# Chapter 8 - Extra Markup
+
+1. Specifying different versions of HTML
+
+2. Identifying and grouping elements
+
+3. Comments, meta information and iframes
+***
+## THREE DIFFERENT VERSIONS OF HTML :
+ 1. HTML 4
+ 2. XHTML 1.0
+ 3. HTML 5
+***
+## ELEMENTS IN HTML :
+ * meta : for contains information about your page .
+ * iframe :  is like a little window that has been cut into your page — and in that window you can see another page.
+ * span : to  control the appearance of the content of these elements using CSS.
+ * div : allows you to group a set of elements together in one block-level box.
+ * <!-- --> : to add comment .
+***
+## **Escape Characters :**
+  ![escape-characters](IMG\31.JPG)
+***
+# SO IT SEEMS THAT :
+ * DOCTYPES tell browsers which version of HTML you are using.
+ * You can add comments to your code between the <!-- and --> markers.
+ * The id and class attributes allow you to identify particular elements.
+ * The div and span elements allow you to group block-level and inline elements together.
+ * iframes cut windows into your web pages through which other pages can be displayed.
+ * The meta tag allows you to supply all kinds of information about your web page.
+ * Escape characters are used to include special characters in your pages such as <, >, and ©.
+ 
+ ***
+ ***
+ ***
+ [BACK TO MAIN PAGE](https://github.com/farahalwahaibi/Reading-Notes/blob/main/README.md)
+ 
+ 
+
+
+
+
+
+
+
+
+
