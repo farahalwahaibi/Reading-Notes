@@ -43,6 +43,7 @@
 **Topic** | **Link**
 ----- | -----
 **Read 1** | [SMACSS and Responsive Web Design](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-01.md)
+**Read 2** | [jQuery, Events, and The DOM](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-02.md)
 ***
 
 ## **Code 401 Reading Notes | Advanced Software Development**
