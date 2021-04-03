@@ -47,6 +47,7 @@
 **Read 3** | [jQuery, Events, and The DOM](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-03.md)
 **Read 4** | [Responsive Web Design and Regular Expressions](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-04.md)
 **Read 5** | [Heroku Deployment](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-05.md)
+**Read 6** | [Node, Express, and APIs](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-06.md)
 
 ***
 
