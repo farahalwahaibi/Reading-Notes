@@ -49,6 +49,7 @@
 **Read 5** | [Heroku Deployment](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-05.md)
 **Read 6** | [Node, Express, and APIs](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-06.md)
 **Read 7** | [APIs continued](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-07.md)
+**Read 8** | [SQL](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-08.md)
 
 ***
 
