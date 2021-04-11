@@ -37,8 +37,6 @@
 
 #### **Optional query parameters :**
 
-
-## **What is a Schema? :**
   * Download Format (access for download by make the value for download = epub)
 
   * Filtering includes these options of values :
