@@ -51,6 +51,7 @@
 **Read 7** | [APIs continued](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-07.md)
 **Read 8** | [SQL](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-08.md)
 **Read 9** | [Refactoring](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-09.md)
+**Read 10** | [The Call Stack and Debugging](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-10.md)
 
 
 ***
