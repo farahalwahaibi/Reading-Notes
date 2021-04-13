@@ -52,7 +52,8 @@
 **Read 8** | [SQL](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-08.md)
 **Read 9** | [Refactoring](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-09.md)
 **Read 10** | [The Call Stack and Debugging](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-10.md)
-**Read 11** | [EJS(https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-11.md)
+**Read 11** | [EJS](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-11.md)
+**Read 12** | [Components](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-12.md)
 
 
 ***
