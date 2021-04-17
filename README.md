@@ -57,6 +57,8 @@
 **Read 13** | [Update/Delete](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-13.md)
 **Read 14** | [DB Normalization](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-14.md)
 **Read 14b** | [Project Ideas](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-14b.md)
+**Read 15** | [Diversity & Inclusion in the Tech Industry](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-15.md)
+
 
 
 
