@@ -67,6 +67,7 @@
 ## **Code 401 Reading Notes | Advanced Software Development**
 **Topic** | **Link**
 ----- | -----
+**Read 00** | [Prep-Readings: Get Ready For 401](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-00.md)
 ***
 
 
