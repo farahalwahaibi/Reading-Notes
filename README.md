@@ -70,6 +70,7 @@
 **Read 00** | [Prep-Readings: Get Ready For 401](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-00.md)
 **Read 01** | [Node Ecosystem, TDD, CI/CD](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-01.md)
 **Read 02** | [Express](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-02.md)
+**Read 03** | [Express-REST-API](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-03.md)
 ***
 
 
