@@ -72,6 +72,7 @@
 **Read 02** | [Express](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-02.md)
 **Read 03** | [Express-REST-API](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-03.md)
 **Read 04** | [Data Modeling](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-4.md)
+**Read 05** | [linked lists](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-05.md)
 ***
 
 
