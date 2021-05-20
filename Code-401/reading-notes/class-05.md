@@ -47,3 +47,10 @@
 * The memory is wasted as pointers require extra memory for storage.
 
 * No element can be accessed randomly, it has to access each node sequentially i.e. proper traversal must be done.
+
+
+
+***
+***
+***
+[BACK TO MAIN PAGE](https://github.com/farahalwahaibi/Reading-Notes/blob/main/README.md)
