@@ -54,6 +54,52 @@ It's stand for create (post method) , read (get method) , update (put and patch 
 
 
 
+## **SUMARIZING** 
+
+### **BASIC AUTH**
+*is a method for an HTTP user agent (e.g. a web browser) to provide a user name and password when making a request.*
+
+### **Features**
+*HTTP Basic authentication (BA) implementation is the simplest technique for enforcing access controls to web resources because it does not require cookies, session identifiers, or login pages; rather, HTTP Basic authentication uses standard fields in the HTTP header.*
+
+### **The Authorization header field is constructed as follows:**
+
+* The username and password are combined with a single colon (:). This means that the username itself cannot contain a colon.
+
+* The resulting string is encoded into an octet sequence. The character set to use for this encoding is by default unspecified, as long as it is compatible with US-ASCII, but the server may suggest use of UTF-8 by sending the charset parameter.[7]
+
+* The resulting string is encoded using a variant of Base64 (+/ and with padding).
+
+* The authorization method and a space (e.g. "Basic ") is then prepended to the encoded string.
+
+
+### **Authentication**
+*is the process of verifying that an individual, entity or website is whom it claims to be. Authentication in the context of web applications is commonly performed by submitting a username or ID and one or more items of private information that only a given user should know.*
+
+
+### **Authentication Responses**
+*Using any of the authentication mechanisms (login, password reset or password recovery), an application must respond with a generic error message regardless of whether:*
+
+* The user ID or password was incorrect.
+
+* The account does not exist.
+
+* The account is locked or disabled.
+
+
+### **OAuth**
+*Open Authorization (OAuth) is a protocol that allows an application to authenticate against a server as a user, without requiring passwords or any third party server that acts as an identity provider.*
+
+
+### **bcrypt**
+*A library to help you hash passwords, OR like  a password-hashing function designed by Niels Provos and David Mazières, based on the Blowfish cipher and presented at USENIX in 1999. Besides incorporating a salt to protect against rainbow table attacks, bcrypt is an adaptive function: over time, the iteration count can be increased to make it slower, so it remains resistant to brute-force search attacks even with increasing computation power.*
+
+
+### **salt**
+*salt is random data that is used as an additional input to a one-way function that hashes data, a password or passphrase [1]. Salts are used to safeguard passwords in storage.*
+
+
+
 ***
 ***
 ***
