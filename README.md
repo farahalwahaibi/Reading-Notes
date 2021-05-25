@@ -67,15 +67,15 @@
 ## **Code 401 Reading Notes | Advanced Software Development**
 **Topic** | **Link**
 ----- | -----
-**Read 00** | [Prep-Readings: Get Ready For 401](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-00.md)
-**Read 01** | [Node Ecosystem, TDD, CI/CD](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-01.md)
-**Read 02** | [Express](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-02.md)
-**Read 03** | [Express-REST-API](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-03.md)
-**Read 04** | [Data Modeling](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-4.md)
-**Read 05** | [linked lists](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-05.md)
-**Read 06** | [Authentication](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-06.md)
-**Read 07** | [Bearer Authorization](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-07.md)
-**Read 08** | [Access Control (ACL)](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-08.md)
+**Read 00** | [Prep-Readings: Get Ready For 401](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-00)
+**Read 01** | [Node Ecosystem, TDD, CI/CD](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-01)
+**Read 02** | [Express](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-02)
+**Read 03** | [Express-REST-API](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-03)
+**Read 04** | [Data Modeling](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-4)
+**Read 05** | [linked lists](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-05)
+**Read 06** | [Authentication](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-06)
+**Read 07** | [Bearer Authorization](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-07)
+**Read 08** | [Access Control (ACL)](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-08)
 ***
 
 
