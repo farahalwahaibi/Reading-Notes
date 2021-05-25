@@ -9,14 +9,14 @@
 ## **Code 102 Reading Notes | Intro to Software Development**
 **Topic** | **Link**
 ----- | -----
-**Read 1** | [Growth Mindset](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-102\reading-notes\class-01.md) 
-**Read 2** | [Mark Down](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-102\reading-notes\class-02.md) 
-**Read 3** | [Remote Repositories](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-102\reading-notes\class-03.md)
-**Read 4** | [Structure Web Page With HTML](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-102\reading-notes\class-04.md)
-**Read 5** | [Programming With JavaScript](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-102\reading-notes\class-05.md)
-**Read 6** | [Operators & Loops](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-102\reading-notes\class-06.md)
-**Read 7** | [Functions](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-102\reading-notes\class-07.md)
-**Read 8** | [Design Web Pages With CSS](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-102\reading-notes\class-08.md) 
+**Read 1** | [Growth Mindset](https://farahalwahaibi.github.io/Reading-Notes/Code-102/reading-notes/class-01) 
+**Read 2** | [Mark Down](https://farahalwahaibi.github.io/Reading-Notes/Code-102/reading-notes/class-02) 
+**Read 3** | [Remote Repositories](https://farahalwahaibi.github.io/Reading-Notes/Code-102/reading-notes/class-03)
+**Read 4** | [Structure Web Page With HTML](https://farahalwahaibi.github.io/Reading-Notes/Code-102/reading-notes/class-04)
+**Read 5** | [Programming With JavaScript](https://farahalwahaibi.github.io/Reading-Notes/Code-102/reading-notes/class-05)
+**Read 6** | [Operators & Loops](https://farahalwahaibi.github.io/Reading-Notes/Code-102/reading-notes/class-06)
+**Read 7** | [Functions](https://farahalwahaibi.github.io/Reading-Notes/Code-102/reading-notes/class-07)
+**Read 8** | [Design Web Pages With CSS](https://farahalwahaibi.github.io/Reading-Notes/Code-102/reading-notes/class-08) 
 ***
 
 ## **Code 201 Reading Notes | Foundations of Software Development**
