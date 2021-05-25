@@ -22,21 +22,21 @@
 ## **Code 201 Reading Notes | Foundations of Software Development**
 **Topic** | **Link**
 ----- | ----- 
-**Read 1** | [Introductory HTML & JavaScript](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-201\reading-notes\class-01.md)
-**Read 2** | [HTML Text, CSS Introduction, Basic JavaScript Instructions](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-201\reading-notes\class-02.md)
-**Read 3** | [HTML Lists, CSS Boxes, JS Control Flow](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-201\reading-notes\class-03.md)
-**Read 4** |[HTML Links, CSS Layout, JS Functions](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-201\reading-notes\class-04.md)
-**Read 5** | [HTML Images; CSS Color & Text](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-201\reading-notes\class-05.md)   
-**Read 6** | [JS Object Literals; The DOM](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-201\reading-notes\class-06.md)
-**Read 7** | [HTML Tables; JS Constructor Functions](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-201\reading-notes\class-07.md)
-**Read 8** | [More CSS Layout](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-201\reading-notes\class-08.md)
-**Read 9** | [Forms and Events](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-201\reading-notes\class-09.md)
-**Read 10** | [JS Debugging](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-201\reading-notes\class-10.md)
-**Read 11** | [Assorted Topics](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-201\reading-notes\class-11.md)
-**Read 12** | [Docs for the HTML(canvas)Element & Chart](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-201\reading-notes\class-12.md)
-**Read 13** | [Local Storage](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-201\reading-notes\class-13.md)
-**Read 14-a** | [CSS Transforms, Transitions, and Animations](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-201\reading-notes\class-14a.md)
-**Read 14-b** | [What Google Learned About Teams](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-201\reading-notes\class-14b.md)
+**Read 1** | [Introductory HTML & JavaScript](https://farahalwahaibi.github.io/Reading-Notes/Code-201/reading-notes/class-01)
+**Read 2** | [HTML Text, CSS Introduction, Basic JavaScript Instructions](https://farahalwahaibi.github.io/Reading-Notes/Code-201/reading-notes/class-02)
+**Read 3** | [HTML Lists, CSS Boxes, JS Control Flow](https://farahalwahaibi.github.io/Reading-Notes/Code-201/reading-notes/class-03)
+**Read 4** |[HTML Links, CSS Layout, JS Functions](https://farahalwahaibi.github.io/Reading-Notes/Code-201/reading-notes/class-04)
+**Read 5** | [HTML Images; CSS Color & Text](https://farahalwahaibi.github.io/Reading-Notes/Code-201/reading-notes/class-05)   
+**Read 6** | [JS Object Literals; The DOM](https://farahalwahaibi.github.io/Reading-Notes/Code-201/reading-notes/class-06)
+**Read 7** | [HTML Tables; JS Constructor Functions](https://farahalwahaibi.github.io/Reading-Notes/Code-201/reading-notes/class-07)
+**Read 8** | [More CSS Layout](https://farahalwahaibi.github.io/Reading-Notes/Code-201/reading-notes/class-08)
+**Read 9** | [Forms and Events](https://farahalwahaibi.github.io/Reading-Notes/Code-201/reading-notes/class-09)
+**Read 10** | [JS Debugging](https://farahalwahaibi.github.io/Reading-Notes/Code-201/reading-notes/class-10)
+**Read 11** | [Assorted Topics](https://farahalwahaibi.github.io/Reading-Notes/Code-201/reading-notes/class-11)
+**Read 12** | [Docs for the HTML(canvas)Element & Chart](https://farahalwahaibi.github.io/Reading-Notes/Code-201/reading-notes/class-12)
+**Read 13** | [Local Storage](https://farahalwahaibi.github.io/Reading-Notes/Code-201/reading-notes/class-13)
+**Read 14-a** | [CSS Transforms, Transitions, and Animations](https://farahalwahaibi.github.io/Reading-Notes/Code-201/reading-notes/class-14a)
+**Read 14-b** | [What Google Learned About Teams](https://farahalwahaibi.github.io/Reading-Notes/Code-201/reading-notes/class-14b)
 ***
 
 ## **Code 301 Reading Notes | Intermediate Software Development**
