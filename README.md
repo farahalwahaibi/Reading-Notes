@@ -75,6 +75,7 @@
 **Read 05** | [linked lists](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-05.md)
 **Read 06** | [Authentication](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-06.md)
 **Read 07** | [Bearer Authorization](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-07.md)
+**Read 08** | [Access Control (ACL)](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-08.md)
 ***
 
 
