@@ -42,22 +42,22 @@
 ## **Code 301 Reading Notes | Intermediate Software Development**
 **Topic** | **Link**
 ----- | -----
-**Read 1** | [SMACSS and Responsive Web Design](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-01.md)
-**Read 2** | [jQuery, Events, and The DOM](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-02.md)
-**Read 3** | [jQuery, Events, and The DOM](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-03.md)
-**Read 4** | [Responsive Web Design and Regular Expressions](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-04.md)
-**Read 5** | [Heroku Deployment](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-05.md)
-**Read 6** | [Node, Express, and APIs](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-06.md)
-**Read 7** | [APIs continued](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-07.md)
-**Read 8** | [SQL](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-08.md)
-**Read 9** | [Refactoring](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-09.md)
-**Read 10** | [The Call Stack and Debugging](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-10.md)
-**Read 11** | [EJS](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-11.md)
-**Read 12** | [Components](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-12.md)
-**Read 13** | [Update/Delete](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-13.md)
-**Read 14** | [DB Normalization](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-14.md)
-**Read 14b** | [Project Ideas](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-14b.md)
-**Read 15** | [Diversity & Inclusion in the Tech Industry](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-301\reading-notes\class-15.md)
+**Read 1** | [SMACSS and Responsive Web Design](https://farahalwahaibi.github.io/Reading-Notes/Code-301/reading-notes/class-01)
+**Read 2** | [jQuery, Events, and The DOM](https://farahalwahaibi.github.io/Reading-Notes/Code-301/reading-notes/class-02)
+**Read 3** | [jQuery, Events, and The DOM](https://farahalwahaibi.github.io/Reading-Notes/Code-301/reading-notes/class-03)
+**Read 4** | [Responsive Web Design and Regular Expressions](https://farahalwahaibi.github.io/Reading-Notes/Code-301/reading-notes/class-04)
+**Read 5** | [Heroku Deployment](https://farahalwahaibi.github.io/Reading-Notes/Code-301/reading-notes/class-05)
+**Read 6** | [Node, Express, and APIs](https://farahalwahaibi.github.io/Reading-Notes/Code-301/reading-notes/class-06)
+**Read 7** | [APIs continued](https://farahalwahaibi.github.io/Reading-Notes/Code-301/reading-notes/class-07)
+**Read 8** | [SQL](https://farahalwahaibi.github.io/Reading-Notes/Code-301/reading-notes/class-08)
+**Read 9** | [Refactoring](https://farahalwahaibi.github.io/Reading-Notes/Code-301/reading-notes/class-09)
+**Read 10** | [The Call Stack and Debugging](https://farahalwahaibi.github.io/Reading-Notes/Code-301/reading-notes/class-10)
+**Read 11** | [EJS](https://farahalwahaibi.github.io/Reading-Notes/Code-301/reading-notes/class-11)
+**Read 12** | [Components](https://farahalwahaibi.github.io/Reading-Notes/Code-301/reading-notes/class-12)
+**Read 13** | [Update/Delete](https://farahalwahaibi.github.io/Reading-Notes/Code-301/reading-notes/class-13)
+**Read 14** | [DB Normalization](https://farahalwahaibi.github.io/Reading-Notes/Code-301/reading-notes/class-14)
+**Read 14b** | [Project Ideas](https://farahalwahaibi.github.io/Reading-Notes/Code-301/reading-notes/class-14b)
+**Read 15** | [Diversity & Inclusion in the Tech Industry](https://farahalwahaibi.github.io/Reading-Notes/Code-301/reading-notes/class-15)
 
 
 
