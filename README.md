@@ -76,6 +76,7 @@
 **Read 06** | [Authentication](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-06)
 **Read 07** | [Bearer Authorization](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-07)
 **Read 08** | [Access Control (ACL)](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-08)
+**Read 09** | [Stack & Queue](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-09)
 ***
 
 
