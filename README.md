@@ -78,6 +78,7 @@
 **Read 08** | [Access Control (ACL)](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-08)
 **Read 09** | [Stack & Queue](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-09)
 **Read 10** | [OAuth](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-10)
+**Read 11** | [Event Driven Applications](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-11)
 ***
 
 
