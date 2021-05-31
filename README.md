@@ -79,6 +79,7 @@
 **Read 09** | [Stack & Queue](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-09)
 **Read 10** | [OAuth](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-10)
 **Read 11** | [Event Driven Applications](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-11)
+**Read 12** | [Socket.io](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-12)
 ***
 
 
