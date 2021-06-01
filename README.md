@@ -80,6 +80,7 @@
 **Read 10** | [OAuth](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-10)
 **Read 11** | [Event Driven Applications](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-11)
 **Read 12** | [Socket.io](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-12)
+**Read 13** | [Message Queues](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-13)
 ***
 
 
