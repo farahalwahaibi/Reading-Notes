@@ -67,7 +67,6 @@
 ## **Code 401 Reading Notes | Advanced Software Development**
 **Topic** | **Link**
 ----- | -----
-
 **Read 00** | [Prep-Readings: Get Ready For 401](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-00)
 **Read 01** | [Node Ecosystem, TDD, CI/CD](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-01)
 **Read 02** | [Express](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-02)
