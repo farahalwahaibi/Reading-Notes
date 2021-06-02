@@ -1,7 +1,7 @@
 # **Farah Alwahaibi**
 
 ## **Studying software development | Architect** 
-Amman, Jordan| farah.alwahaibi77@gmail.com |+962 7 9140 7960
+Amman, Jordan| farah.alwahaibi77@gmail.com |+962 7 9140 7960 |
 https://linkedin.com/in/farah-wahaibi/ | https://github.com/farahalwahaibi 
 
 
