@@ -67,19 +67,7 @@
 ## **Code 401 Reading Notes | Advanced Software Development**
 **Topic** | **Link**
 ----- | -----
-<<<<<<< HEAD
-**Read 00** | [Prep-Readings: Get Ready For 401](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-00.md)
-**Read 01** | [Node Ecosystem, TDD, CI/CD](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-01.md)
-**Read 02** | [Express](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-02.md)
-**Read 03** | [Express-REST-API](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-03.md)
-<<<<<<< HEAD
-**Read 04** | [Data Modeling](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-04.md)
-**Read 04** | [Linked Lists](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-05.md)
-=======
-**Read 04** | [Data Modeling](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-4.md)
-**Read 05** | [linked lists](https://github.com/farahalwahaibi/Reading-Notes/blob/main/Code-401\reading-notes\class-05.md)
->>>>>>> d92ed049e3722696484f0d46e43f2f5825ec79d7
-=======
+
 **Read 00** | [Prep-Readings: Get Ready For 401](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-00)
 **Read 01** | [Node Ecosystem, TDD, CI/CD](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-01)
 **Read 02** | [Express](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-02)
@@ -94,7 +82,8 @@
 **Read 11** | [Event Driven Applications](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-11)
 **Read 12** | [Socket.io](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-12)
 **Read 13** | [Message Queues](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-13)
->>>>>>> f41a1d59ad308712cb6992d939bb636ad7ba0688
+**Read 14** | [Event Driven Architecture](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-14)
+
 ***
 
 
