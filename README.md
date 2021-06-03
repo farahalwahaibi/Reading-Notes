@@ -82,7 +82,7 @@
 **Read 12** | [Socket.io](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-12)
 **Read 13** | [Message Queues](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-13)
 **Read 14** | [Event Driven Architecture](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-14)
-**Read 15** | [Trees|Data Structure](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-15)
+**Read 15** | [Trees/Data Structure](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-15)
 
 
 ***
