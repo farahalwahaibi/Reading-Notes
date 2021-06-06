@@ -83,6 +83,8 @@
 **Read 13** | [Message Queues](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-13)
 **Read 14** | [Event Driven Architecture](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-14)
 **Read 15** | [Trees/Data Structure](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-15)
+**Read 16** | [AWS: Cloud Servers ](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-16)
+
 
 
 ***
