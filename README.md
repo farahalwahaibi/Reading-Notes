@@ -84,6 +84,7 @@
 **Read 14** | [Event Driven Architecture](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-14)
 **Read 15** | [Trees/Data Structure](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-15)
 **Read 16** | [AWS: Cloud Servers ](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-16)
+**Read 17** | [AWS: S3 and Lambda](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-17)
 
 
 
