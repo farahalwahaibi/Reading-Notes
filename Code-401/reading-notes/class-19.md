@@ -41,7 +41,7 @@
 
 * **smallest React example :**
       * ReactDOM.render(
-        <h1>Hello, world!</h1>,
+        `<h1>Hello, world!</h1>`,
         document.getElementById('root')
         );
         
@@ -53,7 +53,7 @@
 
 
 * **example with JSX:**
-      * const myelement = <h1>I Love JSX!</h1>;
+      * const myelement = `<h1>I Love JSX!</h1>`;
         ReactDOM.render(myelement, document.getElementById('root'));
         
         
