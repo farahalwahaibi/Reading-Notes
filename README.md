@@ -71,7 +71,7 @@
 **Read 01** | [Node Ecosystem, TDD, CI/CD](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-01)
 **Read 02** | [Express](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-02)
 **Read 03** | [Express-REST-API](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-03)
-**Read 04** | [Data Modeling](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-4)
+**Read 04** | [Data Modeling](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-04)
 **Read 05** | [linked lists](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-05)
 **Read 06** | [Authentication](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-06)
 **Read 07** | [Bearer Authorization](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-07)
