@@ -40,10 +40,10 @@
 
 
 * **smallest React example :**
-      * ReactDOM.render(
-        `<h1>Hello, world!</h1>`,
-        document.getElementById('root')
-        );
+        * ReactDOM.render(
+         `<h1>Hello, world!</h1>`,
+         document.getElementById('root')
+         );
         
         
         
@@ -53,15 +53,15 @@
 
 
 * **example with JSX:**
-      * const myelement = `<h1>I Love JSX!</h1>`;
-        ReactDOM.render(myelement, document.getElementById('root'));
+        * const myelement = `<h1>I Love JSX!</h1>`;
+          ReactDOM.render(myelement, document.getElementById('root'));
         
         
         
         
 * **example without JSX:**
-      * const myelement = React.createElement('h1', {}, 'I do not use JSX!');
-        ReactDOM.render(myelement, document.getElementById('root'));
+        * const myelement = React.createElement('h1', {}, 'I do not use JSX!');
+          ReactDOM.render(myelement, document.getElementById('root'));
         
         
         
