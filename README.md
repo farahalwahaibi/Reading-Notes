@@ -86,7 +86,8 @@
 **Read 16** | [AWS: Cloud Servers ](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-16)
 **Read 17** | [AWS: S3 and Lambda](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-17)
 **Read 18** | [AWS: API, Dynamo and Lambda](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-18)
-**Read 19** | [Component Based UI](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-19)
+**Read 26** | [Component Based UI](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-26)
+**Read 27** | [Props and State](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-27)
 
 
 
