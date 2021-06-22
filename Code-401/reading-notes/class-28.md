@@ -1,4 +1,4 @@
-# **Props and State**
+# **Component Composition**
 
 ## **Let's 1st answer the questions**
 
