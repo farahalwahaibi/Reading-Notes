@@ -88,6 +88,9 @@
 **Read 18** | [AWS: API, Dynamo and Lambda](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-18)
 **Read 26** | [Component Based UI](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-26)
 **Read 27** | [Props and State](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-27)
+**Read 28** | [Component Composition](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-28)
+
+
 
 
 
