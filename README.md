@@ -90,6 +90,7 @@
 **Read 27** | [Props and State](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-27)
 **Read 28** | [Component Composition](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-28)
 **Read 29** | [HashTables](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-29)
+**Read 30** | [Hooks](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-30)
 
 
 
