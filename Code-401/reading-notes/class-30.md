@@ -34,6 +34,9 @@
 ### **Hooks**
 *Hooks are functions that let you “hook into” React state and lifecycle features from function components.*
 
+### **Why Hooks**
+*If the React community embraces the Hooks proposal, it will reduce the number of concepts you need to juggle when writing React applications. Hooks let you always use functions instead of having to constantly switch between functions, classes, higher-order components, and render props.*
+
 
 ### **These cases are very common and include animations, form handling, connecting to external data sources, and many other things we want to do from our components. When we try to solve these use cases with components alone, we usually end up with:**
   * Huge components that are hard to refactor and test.
