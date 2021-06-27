@@ -91,6 +91,7 @@
 **Read 28** | [Component Composition](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-28)
 **Read 29** | [HashTables](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-29)
 **Read 30** | [Hooks](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-30)
+**Read 32** | [Custom Hooks](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-32)
 
 
 
