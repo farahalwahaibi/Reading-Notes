@@ -37,3 +37,19 @@
         {renderedItems}
        </div>);
      }
+
+Use Effect can only be called at the top level of a function and never within a dif statement.
+
+
+## **Vocabulary Terms**
+
+**state hook** 
+* useState is a way for functional components to tap into state without needing to explicitly declare state.
+**effect hook**
+* useEffect is a tool to use side effects in functional components. This will compare dependency values against the previous render and if there is any differences, it will call your function.
+**reducer hook** 
+* useReducer is used to store and update states, just like the useState Hook. It accepts a reducer function as its first parameter and the initial state as the second.
+
+
+
+
