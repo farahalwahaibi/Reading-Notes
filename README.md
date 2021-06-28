@@ -92,6 +92,8 @@
 **Read 29** | [HashTables](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-29)
 **Read 30** | [Hooks](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-30)
 **Read 32** | [Custom Hooks](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-32)
+**Read 33** | [Context API](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-33)
+
 
 
 
