@@ -95,6 +95,7 @@
 **Read 33** | [Context API](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-33)
 **Read 34** | [Login and Auth](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-34)
 **Read 35** | [Graphs](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-35)
+**Read 36** | [Application State with Redux](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-36)
 
 
 
