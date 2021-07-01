@@ -117,4 +117,3 @@
 [BACK TO MAIN PAGE](https://github.com/farahalwahaibi/Reading-Notes/blob/main/README.md)          
              
 
-chatRoomEvents.on('userJoined', userJoined);
