@@ -96,7 +96,8 @@
 **Read 34** | [Login and Auth](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-34)
 **Read 35** | [Graphs](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-35)
 **Read 36** | [Application State with Redux](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-36)
-**Read 38** | [Redux - Combined Reducers](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-38)
+**Read 37** | [Redux - Combined Reducers](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-38)
+**Read 38** | [Redux - Asynchronous Actions](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-39)
 
 
 
