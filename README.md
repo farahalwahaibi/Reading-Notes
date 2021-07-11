@@ -100,6 +100,12 @@
 **Read 38** | [Redux - Asynchronous Actions](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-39)
 **Read 40** | [Redux - Additional Topics](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-40)
 **Read 41** | [React Native](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-41)
+**Read 42** | [Ethic](https://farahalwahaibi.github.io/Reading-Notes/Code-401/reading-notes/class-42)
+
+
+
+
+
 
 
 
