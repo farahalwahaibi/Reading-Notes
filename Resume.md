@@ -8,7 +8,7 @@ https://linkedin.com/in/farah-wahaibi/ | https://github.com/farahalwahaibi
 ***
 ***
 
-*Studying software development with a background in architecture, take-off estimation and teaching university and school students. Having 2 years of experience working as an architectural (roofing & siding) estimator and one year working as a team leader.. Passionate about using code to maximize efficiency while developing creative, customer-focused solutions.*
+*Full-stack developer with a background in architecture, take-off estimation and teaching university and school students. Having 2 years of experience working as an architectural (roofing & siding) estimator and one year working as a team leader.. Passionate about using code to maximize efficiency while developing creative, customer-focused solutions.*
 
 ***
 ***
