@@ -92,10 +92,5 @@ https://linkedin.com/in/farah-wahaibi/ | https://github.com/farahalwahaibi
 ***
 ***
 
-### **Reference**
 
-**Trevor Nickolas| Siding Estimating Department Manager| Alpha Omega Construction Group Inc.
-Mobile:  +1 980-333-7357 | Email: trevorfaux@gmail.com**
 
-***
-***
